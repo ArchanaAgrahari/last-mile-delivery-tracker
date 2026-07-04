@@ -134,8 +134,8 @@ When an order is created or needs (re)assignment, the system queries all `Agent`
 
 ## Deployed Application
 
-- Backend: `<Render URL - add after deployment>`
-- Frontend: `<Vercel URL - add after deployment>`
+- Backend: https://last-mile-delivery-tracker-k43o.onrender.com
+- Frontend: https://last-mile-delivery-tracker-three.vercel.app
 
 ## Author
 
