@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://127.0.0.1:5050/api",
+  baseURL: "https://last-mile-delivery-tracker-k43o.onrender.com/api",
 });
 
 // Automatically attach token to every request if logged in
